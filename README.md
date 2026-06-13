@@ -59,28 +59,38 @@ It is not just a simple CRUD app — it includes **Spring Security, DTO pattern,
 ### 🔑 Auth APIs
 
 
-#👨‍💻 Author
+## 👨‍💻 Author
 
 Built while learning Spring Boot, Spring Security, and backend system design fundamentals.
 
+---
 
-🧠 Concepts Used
-DTO Pattern
-Service Layer Architecture
-Repository Pattern
-Global Exception Handling
-Spring Security Authentication & Authorization
-Pagination & Sorting
-Input Validation
-📌 Default Configuration
-Page size: 2
-Sort by: id
-Password encoding: BCrypt
-🔥 Future Improvements
-JWT Authentication (recommended upgrade)
-Refresh Token system
-User profile management
-Todo categories & tags
-Email notifications
-Frontend integration (React / Angular)
-Unit testing (JUnit + Mockito)
+## 🧠 Concepts Used
+
+- DTO Pattern  
+- Service Layer Architecture  
+- Repository Pattern  
+- Global Exception Handling  
+- Spring Security Authentication & Authorization  
+- Pagination & Sorting  
+- Input Validation  
+
+---
+
+## 📌 Default Configuration
+
+- Page size: 2  
+- Sort by: id  
+- Password encoding: BCrypt  
+
+---
+
+## 🔥 Future Improvements
+
+- JWT Authentication (recommended upgrade)  
+- Refresh Token system  
+- User profile management  
+- Todo categories & tags  
+- Email notifications  
+- Frontend integration (React / Angular)  
+- Unit testing (JUnit + Mockito)  
